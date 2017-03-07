@@ -1,0 +1,75 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1333]
+    Renderer: AMD Radeon(TM) HD 6480G
+    Vendor:   ATI
+    VRAM:     1261 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\souradeep\Documents\Dodge\Dodge\Dodge_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\souradeep\Documents\Dodge\Dodge\Dodge_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\souradeep\Documents\Dodge\Dodge\Dodge_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\souradeep\Documents\Dodge\Dodge\Dodge_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.126 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.979408 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 201.
+Total: 4.065031 ms (FindLiveObjects: 0.032934 ms CreateObjectMapping: 0.038873 ms MarkObjects: 0.242962 ms  DeleteObjects: 1.739611 ms)
+
+speedUp
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Buffs removed
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Going to main menu
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 2.625074 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 10.905234 ms (FindLiveObjects: 0.039953 ms CreateObjectMapping: 0.042653 ms MarkObjects: 0.212727 ms  DeleteObjects: 8.017220 ms)
+
+UnloadTime: 0.901660 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 201.
+Total: 9.595937 ms (FindLiveObjects: 0.029695 ms CreateObjectMapping: 0.040493 ms MarkObjects: 1.013423 ms  DeleteObjects: 6.317023 ms)
+
+speedUp
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Buffs removed
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Buffs removed
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Buffs removed
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Buffs removed
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Buffs removed
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Buffs removed
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
